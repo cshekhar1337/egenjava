@@ -17,7 +17,7 @@ Build a system that works like an IoT platform – in this case, a personal weig
 ## Instructions for running the application
 1. Download the repository by the running this command "git clone https://github.com/cshekhar1337/egenjava.git"
 2. go inside folder egenjava
-3. run the command on the terminal __"mvn spring-boot:run"__
+3. Run your mongodb server and run the command on the terminal __"mvn spring-boot:run"__
 
 or Import the application to the IDE(like intellij or eclipse which has maven and java configured) and execute it
 
