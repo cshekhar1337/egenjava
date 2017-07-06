@@ -1,7 +1,9 @@
 # egen Challenge
 Build a system that works like an IoT platform – in this case, a personal weight tracker. This system is responsible for,
 •	Consuming data sent from different sensors (emulators)
+
 •	Storing the received data in MongoDB
+
 •	Running the data through different rules to make basic predictions
 
 ## Dependency
